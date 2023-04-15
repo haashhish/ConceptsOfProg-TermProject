@@ -7,3 +7,5 @@ Return the shuffled string.
 Example:
 Input: s = "art", indices = [1,0,2]
 Output: "rat"
+
+Created this project for the following course: CSCE310402 - Concepts of Prog Languages in Fall 2022 at AUC.
